@@ -1,0 +1,13 @@
+New log file opened at Wed Aug 23 21:02:03 SGT 2017 by 9260@Greecos
+Taking next connection to: 55287
+New client attempting to connect on port: 55288-55287
+  Address = /192.168.1.12:55287
+This client on port 55288 has uuid ed91b604-13cb-4c11-9f9f-7f9c5e387546 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546
+Taking next connection to: 55287
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 9260@Greecos logs at Wed Aug 23 21:05:03 SGT 2017, goodbye.

@@ -1,0 +1,89 @@
+New log file opened at Wed Aug 23 20:59:02 SGT 2017 by 9408@Greecos
+	[NOT REQUIRED] org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210!websocket-api.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-java;2.48.2!selenium-java.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-chrome-driver;2.48.2!selenium-chrome-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-edge-driver;2.48.2!selenium-edge-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2!selenium-htmlunit-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.48.2!selenium-firefox-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-ie-driver;2.48.2!selenium-ie-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-safari-driver;2.48.2!selenium-safari-driver.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-support;2.48.2!selenium-support.jar
+	[NOT REQUIRED] org.webbitserver#webbit;0.4.14!webbit.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-remote-driver;2.48.2!selenium-remote-driver.jar
+	[NOT REQUIRED] cglib#cglib-nodep;2.1_3!cglib-nodep.jar
+	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar
+	[NOT REQUIRED] org.seleniumhq.selenium#selenium-api;2.48.2!selenium-api.jar
+	[NOT REQUIRED] org.apache.commons#commons-exec;1.3!commons-exec.jar
+	[NOT REQUIRED] net.java.dev.jna#jna;4.1.0!jna.jar
+	[NOT REQUIRED] net.java.dev.jna#jna-platform;4.1.0!jna-platform.jar
+	[NOT REQUIRED] io.netty#netty;3.5.2.Final!netty.jar(bundle)
+	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.6!scalatest_2.11.jar(bundle)
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] com.typesafe.play#play-omnidoc_2.11;2.5.10!play-omnidoc_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-docs_2.11;2.5.10!play-docs_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar
+	[NOT REQUIRED] org.pegdown#pegdown;1.4.0!pegdown.jar
+	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.5!parboiled-java.jar(bundle)
+	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.5!parboiled-core.jar(bundle)
+	[NOT REQUIRED] org.ow2.asm#asm;4.1!asm.jar
+	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar
+	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar
+	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] jline#jline;2.12.1!jline.jar
+	[NOT REQUIRED] com.typesafe.play#fork-run_2.11;2.5.10!fork-run_2.11.jar
+	[NOT REQUIRED] com.typesafe.play#fork-run-protocol_2.11;2.5.10!fork-run-protocol_2.11.jar
+	[NOT REQUIRED] com.typesafe.sbtrc#actor-client-2-11;0.3.1!actor-client-2-11.jar
+	[NOT REQUIRED] net.contentobjects.jnotify#jnotify;0.94-play-1!jnotify.jar
+	[NOT REQUIRED] com.typesafe.play#run-support_2.11;2.5.10!run-support_2.11.jar
+	[NOT REQUIRED] com.typesafe.sbtrc#client-2-11;0.3.1!client-2-11.jar
+	[NOT REQUIRED] com.typesafe.play#twirl-compiler_2.11;1.1.1!twirl-compiler_2.11.jar
+	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar
+	[NOT REQUIRED] com.typesafe.play#twirl-parser_2.11;1.1.1!twirl-parser_2.11.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)
+	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)
+	[NOT REQUIRED] org.scala-sbt#serialization_2.11;0.1.0!serialization_2.11.jar
+	[NOT REQUIRED] org.scala-sbt#launcher-interface;0.13.8-M3!launcher-interface.jar
+	[NOT REQUIRED] org.scala-sbt#interface;0.13.8-M3!interface.jar
+	[NOT REQUIRED] org.scala-sbt#io_2.11;0.13.8-M3!io_2.11.jar
+	[NOT REQUIRED] org.scala-sbt#collections_2.11;0.13.8-M3!collections_2.11.jar
+	[NOT REQUIRED] org.scala-lang.modules#scala-pickling_2.11;0.10.0!scala-pickling_2.11.jar
+	[NOT REQUIRED] org.json4s#json4s-core_2.11;3.2.10!json4s-core_2.11.jar
+	[NOT REQUIRED] org.spire-math#jawn-parser_2.11;0.6.0!jawn-parser_2.11.jar
+	[NOT REQUIRED] org.spire-math#json4s-support_2.11;0.6.0!json4s-support_2.11.jar
+	[NOT REQUIRED] org.json4s#json4s-ast_2.11;3.2.10!json4s-ast_2.11.jar
+	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar
+	[NOT REQUIRED] org.scala-sbt#control_2.11;0.13.8-M3!control_2.11.jar
+	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.8!akka-actor_2.11.jar
+	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.8!akka-testkit_2.11.jar
+	[NOT REQUIRED] com.typesafe#config;1.2.1!config.jar(bundle)
+:: resolution report :: resolve 6828ms :: artifacts dl 730ms
+	report for scim#scim_2.11;1.0-SNAPSHOT compile produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-compile.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT runtime produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-runtime.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT test produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-test.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT provided produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-provided.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT optional produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-optional.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT compile-internal produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-compile-internal.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT runtime-internal produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-runtime-internal.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT test-internal produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-test-internal.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT plugin produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-plugin.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT sources produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-sources.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT docs produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-docs.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT pom produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-pom.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT scala-tool produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-scala-tool.xml
+	report for scim#scim_2.11;1.0-SNAPSHOT fork-run produced in C:\Users\Ace\Desktop\SCIM-master\target\resolution-cache\reports\scim-scim_2.11-fork-run.xml
+	resolve done (6828ms resolve - 730ms download)
+Read from stdout: Done updating.
+Done updating.
+Total time: 8 s, completed Aug 23, 2017 8:59:02 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 9408@Greecos logs at Wed Aug 23 21:01:54 SGT 2017, goodbye.

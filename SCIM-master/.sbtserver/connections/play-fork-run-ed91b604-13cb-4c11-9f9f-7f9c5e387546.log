@@ -1,0 +1,25 @@
+New log file opened at Wed Aug 23 21:02:03 SGT 2017 by 9260@Greecos
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: C:\Users\Ace\Desktop\SCIM-master\.sbtserver\connections\master.log))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,sbt client logs are in: C:\Users\Ace\Desktop\SCIM-master\.sbtserver\connections\play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546.log))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: C:\Users\Ace\Desktop\SCIM-master\.sbtserver\master.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> --initialize))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: (3,ReceivedResponse())
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> initialize))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> onFailure load-failed))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> boot))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> reload))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,[Loading] Scanning directory C:\Users\Ace\Desktop\SCIM-master\project))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogTrace(ClassNotFoundException,$cf271fc554e27810b1b2$))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(error,java.lang.ClassNotFoundException: $cf271fc554e27810b1b2$))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(error,Use 'last' for the full log.))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> load-failed))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(error,Failed to load project.))
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: BuildFailedToLoad()
+Sending msg to client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546: DetachedLogEvent(LogMessage(debug,> server-wait-for-reboot))
+Client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546 closed, java.net.SocketException: Connection reset, shutting down
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546
+Client play-fork-run-ed91b604-13cb-4c11-9f9f-7f9c5e387546 thread exiting.
